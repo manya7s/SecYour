@@ -1,6 +1,5 @@
-# SecYour SDK Demo (Windows + Android Studio Setup)
+# SecYour SDK 
 
-This repository demonstrates how to run the SecYour SDK demo app on **Windows OS** using **Flutter** and **Android Studio**.
  
 
 SecYour is a cross-platform **behavioral fraud detection and trust scoring system** for banking applications. It continuously monitors user interaction patterns and device signals to detect anomalies, compute a dynamic **trust score**, and trigger **real-time security actions**.  
